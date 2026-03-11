@@ -1,0 +1,17 @@
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\bin\Debug\net10.0-windows\mod03_103022400095.exe
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\bin\Debug\net10.0-windows\mod03_103022400095.deps.json
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\bin\Debug\net10.0-windows\mod03_103022400095.runtimeconfig.json
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\bin\Debug\net10.0-windows\mod03_103022400095.dll
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\bin\Debug\net10.0-windows\mod03_103022400095.pdb
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\mod03_103022400095.Form1.resources
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\mod03_103022400095.csproj.GenerateResource.cache
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\mod03_103022400095.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\mod03_103022400095.AssemblyInfoInputs.cache
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\mod03_103022400095.AssemblyInfo.cs
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\mod03_103022400095.csproj.CoreCompileInputs.cache
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\mod03_103022400095.sourcelink.json
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\mod03_103022400095.dll
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\refint\mod03_103022400095.dll
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\mod03_103022400095.pdb
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\mod03_103022400095.genruntimeconfig.cache
+C:\Users\Hani\Documents\KPL PRAKTIKUM\mod03_103022400095\mod03_103022400095\obj\Debug\net10.0-windows\ref\mod03_103022400095.dll
