@@ -52,6 +52,7 @@
             // satuanAkhir
             // 
             satuanAkhir.FormattingEnabled = true;
+            satuanAkhir.Items.AddRange(new object[] { "Celcius", "Fahrenheit", "Reamur", "Kelvin" });
             satuanAkhir.Location = new Point(103, 161);
             satuanAkhir.Name = "satuanAkhir";
             satuanAkhir.Size = new Size(141, 28);
@@ -80,6 +81,7 @@
             convert.TabIndex = 4;
             convert.Text = "Convert";
             convert.UseVisualStyleBackColor = true;
+            convert.Click += Form1_Load;
             // 
             // label1
             // 
